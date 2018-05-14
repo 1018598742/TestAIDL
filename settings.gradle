@@ -1,0 +1,1 @@
+include ':testaidlclient',':testaidlservice'
